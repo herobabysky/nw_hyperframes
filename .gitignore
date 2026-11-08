@@ -4,3 +4,5 @@ renders/
 *.mp4
 *.webm
 !assets/**/*.mp4
+__pycache__/
+*.pyc
